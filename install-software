@@ -1,5 +1,6 @@
 git
   git config --global core.protectNTFS false
+  git config --system core.longpaths true
 vs code
   tw2002 theme extension
 Obsidian
